@@ -10,9 +10,7 @@ Implementing Show/Hide Property
 
 Implementing Filters
 
-Creating Dynamic Reports in SSRS using 
-
-Parameters
+Creating Dynamic Reports in SSRS using Parameters
 
 Implementing Drill Down
 
